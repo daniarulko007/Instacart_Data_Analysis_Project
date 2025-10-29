@@ -10,4 +10,4 @@ GROUP BY
     d.department
 ORDER BY
     total_orders DESC
-LIMIT 10;
+LIMIT 5;

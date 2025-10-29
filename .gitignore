@@ -1,1 +1,0 @@
-echo "csv_files/*.csv" > .gitignore
